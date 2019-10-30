@@ -8,5 +8,7 @@ class Person
 end 
 
 class Person
-  def .method
+  walk = Person.methods
   puts "The Person is walking"
+end
+end
