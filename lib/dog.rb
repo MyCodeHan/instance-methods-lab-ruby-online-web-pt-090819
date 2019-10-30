@@ -8,6 +8,6 @@ def bark
 end
 
 class Dog
-Dog.method
+Dog.object_id
 puts "The Dog is sitting"
 end 
