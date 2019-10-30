@@ -10,4 +10,3 @@ end
 walk = Person.methods
   puts "The Person is walking"
  end
-end
