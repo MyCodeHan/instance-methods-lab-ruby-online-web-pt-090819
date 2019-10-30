@@ -8,3 +8,5 @@ def bark
 end
 
 class Dog
+Dog.method
+puts "Dog is sitting"
