@@ -4,5 +4,4 @@ end
 class Person
   def talk.method
     puts "Hello World!"
-  end 
-end
+  end
