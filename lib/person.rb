@@ -7,6 +7,9 @@ class Person
   end
 end 
 
-walk = Person.methods
+class.Person
+end 
+walk = Person.new
+walk.methods
   puts "The Person is walking"
  end
