@@ -10,4 +10,3 @@ end
 class Person
   def walk.method
   puts "The Person is walking"
-end 
