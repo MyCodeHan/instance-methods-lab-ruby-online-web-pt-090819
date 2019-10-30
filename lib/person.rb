@@ -1,7 +1,8 @@
 class Person
 end
 
-  def talk.method
+class Person
+  def talk
     puts "Hello World!"
   end
 end 
