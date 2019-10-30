@@ -1,4 +1,4 @@
 class Dog
 end
-def Dog = "woof"
+def Dog 
 end 
