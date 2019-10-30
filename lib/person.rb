@@ -12,5 +12,4 @@ class Person
 walk = Person.new
 walk.methods
   puts "The Person is walking"
- end
 end
