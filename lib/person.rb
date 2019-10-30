@@ -7,8 +7,7 @@ class Person
   end
 end 
 
-class Person
-  walk = Person.methods
+walk = Person.methods
   puts "The Person is walking"
-end
+ end
 end
